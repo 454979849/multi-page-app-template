@@ -1,0 +1,22 @@
+.DS_Store
+node_modules/
+/build/exportI18n.js
+/dist
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+/dist/index.html
+/dist/static
+/test/unit/coverage/
+/test/e2e/reports/
+selenium-debug.log
+/vendor-manifest.json
+/bundle-config.json
+/static/dll.vendor*
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
