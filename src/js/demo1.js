@@ -9,4 +9,5 @@ $(async function () {
   const data = await getLanguageList()
   if (!data) return false
   console.log(11,data)
+
 })
